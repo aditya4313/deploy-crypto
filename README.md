@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+[CRYPTO HUNTER.pdf](https://github.com/aditya4313/deploy-crypto/files/15302199/CRYPTO.HUNTER.pdf)# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+=================================================================================================================================================================================
+
+This File includes screenshots that provide a visual representation of how the project looks like :-
+
+[CRYPTO HUNTER.pdf](https://github.com/aditya4313/deploy-crypto/files/15302202/CRYPTO.HUNTER.pdf)
+
+
+
